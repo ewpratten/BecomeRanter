@@ -25,3 +25,9 @@ for more options try
 ```bash
 python3 createhdf5frominput.py -h
 ```
+
+## Create some rants!
+just run:
+```bash
+python3 createsomerants.py -i /path/to/hfd5/file >> output.txt
+```
