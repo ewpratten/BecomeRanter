@@ -7,7 +7,7 @@ You must have the following installed:
 ```
 python3.6
 pip3
-```
+``` 
 
 ## Installation
 After cloning the repo, run the following:
